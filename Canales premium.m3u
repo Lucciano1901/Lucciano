@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF :-1 ,TNT SPORTS
+#EXTINF :-1 ,TNT DEPORTES
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1666532258~exp=1666532858~acl=/*~hmac=bdfe6f529372825669d7f9f50112d3d1d7245af47eba53a6:
+#EXTINF:-1,TNT2
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1666532258~exp=1666532858~acl=/*~hmac=bdfe6f529372825669d7f9f50112d3d1d724519be343a22faa578724af641eb8
